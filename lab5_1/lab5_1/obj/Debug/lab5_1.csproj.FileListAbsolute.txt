@@ -1,0 +1,10 @@
+C:\Users\Tergel\source\repos\lab5_1\lab5_1\bin\Debug\lab5_1.exe.config
+C:\Users\Tergel\source\repos\lab5_1\lab5_1\bin\Debug\lab5_1.exe
+C:\Users\Tergel\source\repos\lab5_1\lab5_1\bin\Debug\lab5_1.pdb
+C:\Users\Tergel\source\repos\lab5_1\lab5_1\obj\Debug\lab5_1.csproj.AssemblyReference.cache
+C:\Users\Tergel\source\repos\lab5_1\lab5_1\obj\Debug\lab5_1.Form1.resources
+C:\Users\Tergel\source\repos\lab5_1\lab5_1\obj\Debug\lab5_1.Properties.Resources.resources
+C:\Users\Tergel\source\repos\lab5_1\lab5_1\obj\Debug\lab5_1.csproj.GenerateResource.cache
+C:\Users\Tergel\source\repos\lab5_1\lab5_1\obj\Debug\lab5_1.csproj.CoreCompileInputs.cache
+C:\Users\Tergel\source\repos\lab5_1\lab5_1\obj\Debug\lab5_1.exe
+C:\Users\Tergel\source\repos\lab5_1\lab5_1\obj\Debug\lab5_1.pdb
